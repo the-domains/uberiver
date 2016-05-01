@@ -1,6 +1,6 @@
 name: UBERIVER
 favicon: null
-layout_spectrum: 0.12974
+layout_spectrum: 0.3087
 typography_spectrum: 1
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.3006112619768828
   lightness: 0.25
   saturation: 0.375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
