@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[UBERIVER]]></title>
         <description><![CDATA[UBERIVER]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uberiver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:57:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 18:02:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uberiver/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e4eb6ea-b936-47af-b791-58660ea75aa6.jpg">]]></description>
+            <link>https://thegrid.ai/uberiver/71f05b09-6d38-4d90-b6e6-becb9a324060/index.html</link>
+            <guid isPermaLink="false">71f05b09-6d38-4d90-b6e6-becb9a324060</guid>
+            <pubDate>Sun, 01 May 2016 18:02:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/869f547c-7490-4055-9a37-653dadb89521.png">]]></description>
-            <link>undefined3e29aed3-e858-43d6-8aa9-9a125ac198a1/index.html</link>
+            <link>https://thegrid.ai/uberiver/3e29aed3-e858-43d6-8aa9-9a125ac198a1/index.html</link>
             <guid isPermaLink="false">3e29aed3-e858-43d6-8aa9-9a125ac198a1</guid>
             <pubDate>Sun, 01 May 2016 17:57:16 GMT</pubDate>
         </item>
