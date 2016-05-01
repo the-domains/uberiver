@@ -1,7 +1,7 @@
 name: UBERIVER
 favicon: null
-layout_spectrum: 0.41347323288209736
-typography_spectrum: 0.9489421418402344
+layout_spectrum: 0.12974
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#0c0e0d'
+    - '#767776'
+    - '#a19ca0'
+    - '#cbcbcb'
   brandStrength: 0.3006112619768828
-  lightness: 0.04561530030332506
-  saturation: 0.4043361833319068
-  rhythmicContrast: 0.03543841978535056
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
